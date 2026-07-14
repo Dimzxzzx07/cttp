@@ -1,0 +1,1 @@
+{"version":3,"file":"NotifyError.d.ts","sourceRoot":"","sources":["../../src/errors/NotifyError.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,aAAa,CAAC;AAExC,qBAAa,WAAY,SAAQ,SAAS;gBAC5B,OAAO,EAAE,MAAM,EAAE,OAAO,CAAC,EAAE,GAAG;CAK3C"}

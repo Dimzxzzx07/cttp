@@ -1,0 +1,2 @@
+// Simplified CTTPClient - remove handler registration that causes errors
+// Just use the client without custom method handlers for now

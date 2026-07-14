@@ -1,0 +1,41 @@
+{
+  "name": "chttps-e",
+  "version": "0.1.0",
+  "description": "Custom HTTP Extension Client with advanced methods",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json",
+    "test": "tsc -p tsconfig.test.json && node dist/tests/index.js",
+    "benchmark": "tsc -p tsconfig.test.json && node dist/benchmarks/index.js",
+    "lint": "eslint src/**/*.ts",
+    "format": "prettier --write src/**/*.ts",
+    "docs": "typedoc --out docs/api src/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.43",
+    "@typescript-eslint/eslint-plugin": "^6.0.0",
+    "@typescript-eslint/parser": "^6.0.0",
+    "eslint": "^8.40.0",
+    "prettier": "^2.8.8",
+    "typedoc": "^0.24.0",
+    "typescript": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": [
+    "http",
+    "http3",
+    "quic",
+    "custom-methods",
+    "tunnel",
+    "resumable-upload",
+    "sync",
+    "merge",
+    "audit",
+    "undo"
+  ],
+  "author": "Dimzxzzx07",
+  "license": "MIT"
+}

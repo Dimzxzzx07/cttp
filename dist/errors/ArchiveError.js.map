@@ -1,0 +1,1 @@
+{"version":3,"file":"ArchiveError.js","sourceRoot":"","sources":["../../src/errors/ArchiveError.ts"],"names":[],"mappings":";;;AAAA,2CAAwC;AAExC,MAAa,YAAa,SAAQ,qBAAS;IACzC,YAAY,OAAe,EAAE,OAAa;QACxC,KAAK,CAAC,GAAG,EAAE,OAAO,EAAE,eAAe,EAAE,OAAO,CAAC,CAAC;QAC9C,IAAI,CAAC,IAAI,GAAG,cAAc,CAAC;QAC3B,MAAM,CAAC,cAAc,CAAC,IAAI,EAAE,YAAY,CAAC,SAAS,CAAC,CAAC;IACtD,CAAC;CACF;AAND,oCAMC"}

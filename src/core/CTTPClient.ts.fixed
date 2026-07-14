@@ -1,0 +1,9 @@
+// Use this version - comment out the custom method registration section
+// Replace lines 112-128 in CTTPClient.ts with:
+/*
+private registerCustomMethods(): void {
+  // Handlers are imported from handlers folder
+  // this.customMethodRegistry.register("LOGIN", new LoginHandler());
+  // ... etc
+}
+*/

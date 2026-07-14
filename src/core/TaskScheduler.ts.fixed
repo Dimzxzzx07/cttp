@@ -1,0 +1,6 @@
+// Replace .filter with Array.from(...).filter
+// Example:
+Array.from(this.tasks.values()).filter(t => t.status === "pending")
+Array.from(this.tasks.values()).filter(t => t.status === "running")
+Array.from(this.tasks.values()).filter(t => t.status === "completed")
+Array.from(this.tasks.values()).filter(t => t.status === "failed")

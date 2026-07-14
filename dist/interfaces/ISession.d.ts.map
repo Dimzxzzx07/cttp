@@ -1,0 +1,1 @@
+{"version":3,"file":"ISession.d.ts","sourceRoot":"","sources":["../../src/interfaces/ISession.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,EAAE,MAAM,gBAAgB,CAAC;AAC9C,OAAO,EAAE,aAAa,EAAE,MAAM,iBAAiB,CAAC;AAEhD,MAAM,WAAW,QAAQ;IACvB,IAAI,CAAC,OAAO,EAAE,YAAY,GAAG,OAAO,CAAC,aAAa,CAAC,CAAC;IACpD,KAAK,IAAI,OAAO,CAAC,IAAI,CAAC,CAAC;CACxB"}

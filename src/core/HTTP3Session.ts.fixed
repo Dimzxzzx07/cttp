@@ -1,0 +1,6 @@
+// Replace Object.fromEntries(headers) with:
+const headerObj: Record<string, string> = {};
+for (const [key, value] of headers) {
+  headerObj[key] = value;
+}
+const headerData = Buffer.from(JSON.stringify(headerObj));

@@ -1,0 +1,26 @@
+export declare enum HTTPMethod {
+    GET = "GET",
+    POST = "POST",
+    PUT = "PUT",
+    PATCH = "PATCH",
+    DELETE = "DELETE",
+    HEAD = "HEAD",
+    OPTIONS = "OPTIONS",
+    CONNECT = "CONNECT",
+    TRACE = "TRACE",
+    LOGIN = "LOGIN",
+    LOGOUT = "LOGOUT",
+    REFRESH = "REFRESH",
+    SYNC = "SYNC",
+    MERGE = "MERGE",
+    STREAM = "STREAM",
+    UPLOAD = "UPLOAD",
+    CONVERT = "CONVERT",
+    ARCHIVE = "ARCHIVE",
+    AUDIT = "AUDIT",
+    VERIFY = "VERIFY",
+    PING = "PING",
+    NOTIFY = "NOTIFY",
+    UNDO = "UNDO"
+}
+//# sourceMappingURL=HTTPMethod.d.ts.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"MethodNotAllowedError.d.ts","sourceRoot":"","sources":["../../src/errors/MethodNotAllowedError.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,aAAa,CAAC;AAExC,qBAAa,qBAAsB,SAAQ,SAAS;gBACtC,MAAM,EAAE,MAAM;CAK3B"}

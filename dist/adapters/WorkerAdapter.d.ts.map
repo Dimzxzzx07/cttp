@@ -1,0 +1,1 @@
+{"version":3,"file":"WorkerAdapter.d.ts","sourceRoot":"","sources":["../../src/adapters/WorkerAdapter.ts"],"names":[],"mappings":"AAAA,qBAAa,aAAa;IACxB,OAAO,CAAC,QAAQ,CAAU;IAC1B,OAAO,CAAC,MAAM,CAAU;;IA4BjB,cAAc,IAAI,OAAO;IAIzB,YAAY,IAAI,OAAO;IAIjB,WAAW,CAAC,MAAM,EAAE,MAAM,EAAE,IAAI,CAAC,EAAE,GAAG,GAAG,OAAO,CAAC,GAAG,CAAC;IA2B3D,aAAa,IAAI,GAAG;IAkBpB,aAAa,IAAI,GAAG;CAiB5B"}

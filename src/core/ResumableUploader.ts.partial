@@ -1,0 +1,4 @@
+// Fix status types
+// Change "complete" to "completed"
+// Change "finalized" to "completed"
+// Change "resumed" to "uploading"

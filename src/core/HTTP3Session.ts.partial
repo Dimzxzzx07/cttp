@@ -1,0 +1,1 @@
+// Use headers.entries() instead of Object.fromEntries(headers)

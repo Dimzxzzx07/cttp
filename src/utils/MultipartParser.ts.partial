@@ -1,0 +1,2 @@
+// Replace line 59 with:
+if (this.buffer.toString().startsWith("--")) {

@@ -1,0 +1,1 @@
+{"version":3,"file":"ProtocolError.d.ts","sourceRoot":"","sources":["../../src/errors/ProtocolError.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,aAAa,CAAC;AAExC,qBAAa,aAAc,SAAQ,SAAS;gBAC9B,OAAO,EAAE,MAAM,EAAE,IAAI,CAAC,EAAE,MAAM,EAAE,OAAO,CAAC,EAAE,GAAG;CAK1D"}

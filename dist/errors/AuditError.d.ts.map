@@ -1,0 +1,1 @@
+{"version":3,"file":"AuditError.d.ts","sourceRoot":"","sources":["../../src/errors/AuditError.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,aAAa,CAAC;AAExC,qBAAa,UAAW,SAAQ,SAAS;gBAC3B,OAAO,EAAE,MAAM,EAAE,OAAO,CAAC,EAAE,GAAG;CAK3C"}

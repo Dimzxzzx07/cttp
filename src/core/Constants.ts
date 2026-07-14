@@ -1,0 +1,30 @@
+export class Constants {
+  public readonly TUNNEL_MAGIC: number = 0x43545450;
+  public readonly TUNNEL_VERSION: number = 1;
+  public readonly DEFAULT_TIMEOUT: number = 30000;
+  public readonly MAX_HEADER_SIZE: number = 8192;
+  public readonly MAX_BODY_SIZE: number = 1024 * 1024 * 100;
+  public readonly MAX_RETRIES: number = 3;
+  public readonly MAX_REDIRECTS: number = 10;
+  public readonly DEFAULT_CHUNK_SIZE: number = 1024 * 1024;
+  public readonly DEFAULT_POOL_SIZE: number = 100;
+  public readonly DEFAULT_CACHE_SIZE: number = 1000;
+  public readonly DEFAULT_TTL: number = 300;
+  public readonly HTTP_VERSION: string = "HTTP/1.1";
+  public readonly HTTP2_VERSION: string = "HTTP/2";
+  public readonly HTTP3_VERSION: string = "HTTP/3";
+  public readonly QUIC_VERSION: string = "QUIC";
+  public readonly USER_AGENT: string = "CTTP/1.0";
+  public readonly CONTENT_TYPE_JSON: string = "application/json";
+  public readonly CONTENT_TYPE_FORM: string = "application/x-www-form-urlencoded";
+  public readonly CONTENT_TYPE_MULTIPART: string = "multipart/form-data";
+  public readonly CONTENT_TYPE_OCTET: string = "application/octet-stream";
+  public readonly ACCEPT_ALL: string = "*/*";
+  public readonly ACCEPT_ENCODING: string = "gzip, deflate, br";
+  public readonly ACCEPT_LANGUAGE: string = "en-US,en;q=0.9";
+  public readonly CONNECTION_KEEP_ALIVE: string = "keep-alive";
+  public readonly CONNECTION_CLOSE: string = "close";
+  public readonly CACHE_CONTROL_NO_CACHE: string = "no-cache";
+  public readonly CACHE_CONTROL_NO_STORE: string = "no-store";
+  public readonly CACHE_CONTROL_MAX_AGE: string = "max-age=3600";
+}

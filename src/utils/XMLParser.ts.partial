@@ -1,0 +1,1 @@
+// Use Array.from(node.attributes) and Array.from(children)

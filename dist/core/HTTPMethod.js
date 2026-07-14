@@ -1,0 +1,30 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.HTTPMethod = void 0;
+var HTTPMethod;
+(function (HTTPMethod) {
+    HTTPMethod["GET"] = "GET";
+    HTTPMethod["POST"] = "POST";
+    HTTPMethod["PUT"] = "PUT";
+    HTTPMethod["PATCH"] = "PATCH";
+    HTTPMethod["DELETE"] = "DELETE";
+    HTTPMethod["HEAD"] = "HEAD";
+    HTTPMethod["OPTIONS"] = "OPTIONS";
+    HTTPMethod["CONNECT"] = "CONNECT";
+    HTTPMethod["TRACE"] = "TRACE";
+    HTTPMethod["LOGIN"] = "LOGIN";
+    HTTPMethod["LOGOUT"] = "LOGOUT";
+    HTTPMethod["REFRESH"] = "REFRESH";
+    HTTPMethod["SYNC"] = "SYNC";
+    HTTPMethod["MERGE"] = "MERGE";
+    HTTPMethod["STREAM"] = "STREAM";
+    HTTPMethod["UPLOAD"] = "UPLOAD";
+    HTTPMethod["CONVERT"] = "CONVERT";
+    HTTPMethod["ARCHIVE"] = "ARCHIVE";
+    HTTPMethod["AUDIT"] = "AUDIT";
+    HTTPMethod["VERIFY"] = "VERIFY";
+    HTTPMethod["PING"] = "PING";
+    HTTPMethod["NOTIFY"] = "NOTIFY";
+    HTTPMethod["UNDO"] = "UNDO";
+})(HTTPMethod || (exports.HTTPMethod = HTTPMethod = {}));
+//# sourceMappingURL=HTTPMethod.js.map
